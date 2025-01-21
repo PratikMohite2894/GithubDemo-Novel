@@ -4,8 +4,3 @@ Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat.
 Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi.  
 Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci.  
 
-In hac habitasse platea dictumst. Fusce convallis, mauris imperdiet gravida bibendum, nisl turpis suscipit mauris, sed placerat ipsum sapien sed purus.  
-Cras quis libero. Cras pellentesque volutpat dui.  
-Maecenas ut elit quis augue luctus tincidunt. Nulla facilisi.  
-Praesent pulvinar sapien vel quam. Maecenas pretium, ipsum at placerat pulvinar, sapien justo facilisis ligula, ut feugiat orci magna vitae arcu.  
-Suspendisse vel velit auctor, ornare odio non, vehicula nisi.
