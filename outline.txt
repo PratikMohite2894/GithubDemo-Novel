@@ -19,8 +19,3 @@ Curabitur at lacus ac velit ornare lobortis. Nulla porta dolor.
 Aenean ut eros et nisl sagittis vestibulum. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi.  
 Aenean viverra rhoncus pede. Pellentesque posuere.  
 
-Morbi nec metus. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi.  
-Cras sagittis. Praesent venenatis metus at tortor pulvinar varius.  
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.  
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.  
-Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero.  
